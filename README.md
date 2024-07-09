@@ -2,6 +2,7 @@
 - I’m interested in Data driven fields such as Data Analyst/Business Intelligence Engineer/Data Scientist
 - You can reach me through LinkedIn - https://www.linkedin.com/in/shrishty-mishra97/
 - Tableau Public Profile - https://public.tableau.com/app/profile/shrishty.mishra/vizzes
+- PowerBI work Sample - https://app.powerbi.com/view?r=eyJrIjoiOGEzMDIxODMtYjNiMS00ZGE4LWI2ODctOTE0OGRiMTk3YjFlIiwidCI6IjMxZDdlMmE1LWJkZDgtNDE0ZS05ZTk3LWJlYTk5OGViZGZlMSIsImMiOjN9
 <!---
 ShrishtyMishra97/ShrishtyMishra97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning ...
